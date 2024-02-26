@@ -415,7 +415,6 @@ const showCalendarHandler = () => {
       year: Number(todayData.year),
       month: Number(todayData.month),
     };
-    console.log("ibhb");
   }
   generateCalendar();
   monthYearClickHandler();
